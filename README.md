@@ -2,6 +2,8 @@
 
 This repository provides a development environment setup for working with the Rucio codebase using Visual Studio Code.
 
+Responsible for PR merging in [rucio/rucio-vscode-dev-env](https://github.com/rucio/rucio-vscode-dev-env): [Mayank Sharma](https://github.com/maany)
+
 ## Setup Instructions
 
 1. **Clone the Repository**  
